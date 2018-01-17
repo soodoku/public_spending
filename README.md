@@ -23,13 +23,13 @@ Data on public employee salaries, which is a big chunk of public spending, is po
 | [Indiana](in/)              |            |
 | [Iowa](ia/)                 |            |
 | [Kansas](ks/)               |            |
-| [Kentucky](ky/)             | 2007--2018 |
+| [Kentucky](ky/)             | 2007--2017 |
 | [Maine](me/)                |            |
 | [Louisiana](la/)            |            |
 | [Maine](me/)                |            |
 | [Maryland](md/)             |            |
 | [Massachusetts](ma/)        | 2010--2015 |
-| [Michigan](mi/)             |            |
+| [Michigan](mi/)             | 2011--2017 |
 | [Minnesota](mn/)            |            |
 | [Mississippi](ms/)          |            |
 | [Missouri](mo/)             |            |
